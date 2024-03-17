@@ -40,6 +40,8 @@ On first launch, the server will generate the "MODS" folder, inside of it will b
 - Required mods will kick the connecting player if its missing them.
 
 To install mods, directly dump the mod folder (The one with the numbers in the title if grabing from Steam) inside whichever folder you choose.
+Path to your steam workshop files should be similar to: F:\SteamLibrary\steamapps\workshop\content\294100.
+
 Furthermore, the files for Harmony, Hugslib and Rimworld Together can be found in the Extras, which can be found in this repository.
 
 > [!TIP]
